@@ -1,4 +1,4 @@
-For a Master's dissertation in sciences and engineering, the structure typically follows a specific format that emphasizes technical detail and experimental results. Here is a general outline with suggested components and word counts based on common practices in these fields:
+For a Master's dissertation in sciences and engineering, the structure typically follows a specific format that emphasizes technical detail and experimental results.
 
 1. **Title Page**:
    - No word count. Includes the dissertation title, your name, program details, and date.
@@ -39,4 +39,4 @@ For a Master's dissertation in sciences and engineering, the structure typically
 13. **Appendices**:
     - No word count. Includes supplementary material like raw data, additional experimental details, or software code.
 
-The total word count for a Master's dissertation in sciences and engineering usually ranges from 20,000 to 40,000 words, depending on the complexity of the topic and the specific requirements of the academic department. Always check your specific program guidelines for detailed requirements regarding the structure and length of your dissertation.
+The total word count for a Master's dissertation in sciences and engineering usually ranges from 20,000 to 40,000 words, depending on the complexity of the topic and the specific requirements of the academic department. 
